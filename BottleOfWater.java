@@ -17,6 +17,6 @@ public class BottleOfWater extends Product{
     @Override
     public String toString() {
         return super.toString() +
-                ", volume(l) - " + volume;
+                ", volume(L) - " + volume;
     }
 }
