@@ -27,6 +27,6 @@ public abstract class Product {
     public String toString() {
         return "Product: " +
                 "name - '" + name + '\'' +
-                ", cost(rub.) - " + cost;
+                ", cost(Rub) - " + cost;
     }
 }
